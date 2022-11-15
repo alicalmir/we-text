@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "927191384584",
+    "project_id": "evoltchat",
+    "storage_bucket": "evoltchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927191384584:android:3decdfd51db818d83e07bd",
+        "android_client_info": {
+          "package_name": "com.example.evolt_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927191384584-354r98ep5h3ugdb7t9hca0p8mfl3j6jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evolt_test",
+            "certificate_hash": "57d1cf1e8be0cfe9669fb8bd15c47f852bfd1b3f"
+          }
+        },
+        {
+          "client_id": "927191384584-pa185m3p737e0nbrs042e65qk9jb39i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfs53owx6y80FxaWZVRsZWJep80F34Vk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927191384584-pa185m3p737e0nbrs042e65qk9jb39i0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927191384584-6oeimhhj7s89233biphi11ijgd4uoduv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evoltTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
