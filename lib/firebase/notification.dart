@@ -54,7 +54,7 @@ class PushNoti {
     required String title,
     required String body,
   }) async {
-    //paste your server key here
+    //server key here
     var serverToken =
         'key=AAAA1-Dpwgg:APA91bEZQ1RwLKlCtYj8QXH36jtDbm6ptE8pqpaz5lRN1LSPzmhpFuYdWFO09J_0IZw8rxquvItzzdwdqagqa6RftpmLzQ0b_yWLt-B3nLSc_ZgMmZdRAijPCvzUt5o1X4kZdD3906__';
 
